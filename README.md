@@ -20,7 +20,7 @@
 
 ---
 ### 📈 GitHub Stats
-![mxmklvrv's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxmklvrv&show_icons=true&theme=radical)
+![mxmklvrv GitHub stats](https://github-readme-stats.vercel.app/api?username=mxmklvrv&show_icons=true)
 
 ---
 ### Contact
