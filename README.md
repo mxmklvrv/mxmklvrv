@@ -20,7 +20,11 @@
 
 ---
 ### 📈 GitHub Stats
-![mxmklvrv GitHub stats](https://github-readme-stats.vercel.app/api?username=mxmklvrv&show_icons=true)
+<p align="left">
+    <img alt="mxmklvrv's stars" src="https://img.shields.io/github/stars/mxmklvrv?color=blue" />
+    <img alt="mxmklvrv's followers" src="https://img.shields.io/github/followers/mxmklvrv?color=blue" />
+    <img alt="mxmklvrv's visitors" src="https://komarev.com/ghpvc/?username=mxmklvrv&color=blue&style=flat&label=visitors" />		
+</p>
 
 ---
 ### Contact
