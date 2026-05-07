@@ -1,10 +1,11 @@
 ## Hi there, I am Maxim
 
 ### About me
-- 🚀 Former account manager & wholesaler turned aspiring software developer
-- 🍽️ Restaurant industry enthusiast
+- 🚀 Software Developer interested in backend and systems development
+- 🔧 Building low-level projects in C and exploring scalable software engineering at Hive Helsinki
 - 🎨 UX/UI appreciator with a love for clean design
 - 🔍 Parsing enthusiast and data explorer
+- 🍽️ Restaurant industry enthusiast
 ---
 ### 💻 Tech & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
